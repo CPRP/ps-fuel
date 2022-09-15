@@ -4,10 +4,10 @@ Config.LeaveEngineRunning = true -- when set to true vehicle engine will run upo
 Config.VehicleBlowUp = true -- when set to true vehicle has a chance to blow up if engine is left running
 Config.BlowUpChance = 5 -- percentage for chance of engine explosion
 Config.RefillCost = 100 -- default price
-Config.CostMultiplier = 3.0 -- tax basically
-Config.canCost = 400 -- buy jerry can price
-Config.refuelCost = 600 -- refueling jerry can price
-Config.GlobalTax = 15.0
+Config.CostMultiplier = 1.0 -- tax basically
+Config.canCost = 200 -- buy jerry can price
+Config.refuelCost = 100 -- refueling jerry can price
+Config.GlobalTax = 8.0
 
 Config.fuelPrice = 2.0 -- fuel price in litres I guess
 
